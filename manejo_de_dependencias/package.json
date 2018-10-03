@@ -1,0 +1,16 @@
+{
+  "name": "manejo_de_dependencias",
+  "version": "1.0.0",
+  "description": "Ejemplo para el manejo de paquetes en node",
+  "private": true,
+  "scripts": {
+    "printSomething": "echo \"Warning: no test specified\"",
+    "webpack": 'webpack',
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "lodash": "^4.17.11"
+  }
+}
